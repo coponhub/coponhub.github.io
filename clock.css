@@ -1,6 +1,6 @@
 body{
     background-color: black;
-    color: #fb0; /* fb0 */
+    color: #fc3; /* fb0 */
 }
 
 #datebox{
@@ -8,16 +8,16 @@ body{
 }
 
 h1{
-    font-size: 8em;
+    font-size: 12em;
     text-align:center;
 
     margin: auto auto;
-    text-shadow: 0 0 0.8rem #fa0; /* fa0 */
+    text-shadow: 0 0 0.8rem #fb0; /* fa0 */
     vertical-align:middle;
     
 }
 #date{
-    font-size:3em;
+    font-size:6em;
 }
 
 
