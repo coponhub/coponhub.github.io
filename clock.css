@@ -1,6 +1,6 @@
 body{
     background-color: black;
-    color: white; /* fb0 */
+    color: #fb0; /* fb0 */
 }
 
 #datebox{
@@ -12,7 +12,7 @@ h1{
     text-align:center;
 
     margin: auto auto;
-    text-shadow: 0 0 0.8rem white; /* fa0 */
+    text-shadow: 0 0 0.8rem #fa0; /* fa0 */
     vertical-align:middle;
     
 }
