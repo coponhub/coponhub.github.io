@@ -8,11 +8,11 @@ body{
 }
 
 h1{
-    font-size: 22em;
+    font-size: 21em;
     text-align:center;
 
     margin: auto auto;
-    text-shadow: 0 0 1.2rem #fb0; /* fa0 */
+    text-shadow: 0 0 1rem #fb0; /* fa0 */
     vertical-align:middle;
     
 }
