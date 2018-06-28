@@ -12,9 +12,9 @@ window.onload = function(e){
     timeslot = document.getElementById("time");
     updateTime();
     setInterval(updateTime, 60000);
-    let audio = new Audio("elona.ogg");
-    audio.loop = true;
-    audio.play();
+    //let audio = new Audio("elona.ogg");
+    //audio.loop = true;
+    //audio.play();
 };
 
 
