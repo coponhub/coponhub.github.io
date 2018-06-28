@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Offside');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
 body{
-    font-family: 'Offside', cursive;
+    font-family: 'Roboto Mono', monospace;
     background-color: black;
     color: #fc3; /* fb0 */
 }
